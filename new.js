@@ -6,5 +6,5 @@ var x =7;
 function getName(){
     console.log("Namaste Javascript");
 }
-x
+console.log("hello")
 
